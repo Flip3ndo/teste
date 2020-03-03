@@ -18,7 +18,7 @@ int main(){
     printf("O jogador escolheu : %s\nO computador escolheu: %s\n", jogadas[jog], jogadas[comp]);
     if (jog==0){
         if (comp==0){
-            printf("Deu empate");
+            printf("Burro ningue ganhou");
         }else if(comp==1){
             printf("Computador ganhou");
         }else{
